@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=Jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 </div>
@@ -15,7 +15,7 @@
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white">
 </div>
@@ -23,9 +23,9 @@
 <br>
 
 <div>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Antdesign-0170FE?style=flat&logo=Antdesign&logoColor=white">
-  <img src="https://img.shields.io/badge/Fontawesome-339AF0?style=flat&logo=Fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=Antdesign&logoColor=white">
+  <img src="https://img.shields.io/badge/FontAwesome-339AF0?style=flat&logo=Fontawesome&logoColor=white">
 </div>
 
 <br>
@@ -33,13 +33,13 @@
 <div>
   <img src="https://img.shields.io/badge/JSP-FF9A00?style=flat&logo=JSP&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-FF3366?style=flat&logo=JPA&logoColor=white">
-  <img src="https://img.shields.io/badge/Mybatis-D0271D?style=flat&logo=Mybatis&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-D0271D?style=flat&logo=Mybatis&logoColor=white">
 </div>
 
 <br>
 
 <div>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=GitLab&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 </div>
