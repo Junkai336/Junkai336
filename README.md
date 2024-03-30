@@ -24,6 +24,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Antdesign-0170FE?style=flat&logo=Antdesign&logoColor=white">
   <img src="https://img.shields.io/badge/Fontawesome-339AF0?style=flat&logo=Fontawesome&logoColor=white">
 </div>
 
@@ -40,4 +41,5 @@
 <div>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
 </div>
