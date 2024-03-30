@@ -19,13 +19,15 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
 </div>
 
-<div>
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-</div>
-
 <br>
 
 <div>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat&logo=fontawesome&logoColor=white">
+</div>
+
+<br>
+
+<div>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </div>
