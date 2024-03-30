@@ -42,4 +42,5 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=GitLab&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 </div>
