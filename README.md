@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MSSQL&logoColor=white">
 </div>
 
 <br>
@@ -29,5 +30,14 @@
 <br>
 
 <div>
+  <img src="https://img.shields.io/badge/JSP-FF9A00?style=flat&logo=JSP&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-FF3366?style=flat&logo=JPA&logoColor=white">
+  <img src="https://img.shields.io/badge/Mybatis-D0271D?style=flat&logo=Mybatis&logoColor=white">
+</div>
+
+<br>
+
+<div>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat&logo=Gitlab&logoColor=white">
 </div>
