@@ -1,5 +1,7 @@
 👋 Hi, I’m @Junkai336
 
+***
+
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -43,3 +45,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 </div>
+
+***
+
+정보처리산업기사 (~ing)
+SQL Developer (2025.04.04)
