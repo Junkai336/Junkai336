@@ -48,7 +48,7 @@
 
 ***
 
-<div>
-  <p>정보처리산업기사 (~ing)</p>
-  <p>SQL Developer (2025.04.04)</p>
-</div>
+<ul>
+  <il>정보처리산업기사 (~ing)</li>
+  <li>SQL Developer (2025.04.04)</li>
+</ul
