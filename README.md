@@ -48,5 +48,7 @@
 
 ***
 
-정보처리산업기사 (~ing)
-SQL Developer (2025.04.04)
+<div>
+  <p>정보처리산업기사 (~ing)</p>
+  <p>SQL Developer (2025.04.04)</p>
+</div>
